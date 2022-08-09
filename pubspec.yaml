@@ -1,7 +1,6 @@
 name: flutter_animated_cart
 description: A new Flutter animted cart page package.
 version: 0.0.1
-author: Urvish Jani <urvish.jani24@gmail.com>
 homepage: https://github.com/Urvish24/flutter-animted-cart
 
 environment:
@@ -11,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  license: ^1.0.0
 
 dev_dependencies:
   flutter_test:
